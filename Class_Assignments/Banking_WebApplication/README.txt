@@ -1,0 +1,7 @@
+------------------------------------------------------------------------------------------
+This banking web application provides users a way to register, open accounts, and manage funds with 'JAVA Bank'. The back end of the application is built using Java servlets and implements a text file system that allows user data to persist. The front end of the application is built using JSP's and the JSTL tag library to create a dynamic user interface. 
+
+User data is transported and represented by objects of the "User" and "Account" classes. Users are able to open new accounts and may withdraw from, deposit to, or transfer between their accounts. Users may also view the transaction history of any given account. Throughout the application, form validation is used via HTML properties and also with logic written in the associated servlets. Error messages are rendered to the page using servlet logic when a non-registered email or an incorrect password is provided upon login.
+
+Styling throughout the application is achieved with a combination of prewritten Bootstrap components and also an additional layer of custom CSS tags used as wrappers to the Bootstrap components.
+------------------------------------------------------------------------------------------
