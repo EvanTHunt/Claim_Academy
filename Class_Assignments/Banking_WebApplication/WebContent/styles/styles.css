@@ -1,0 +1,29 @@
+.wrapper1{
+	margin-top:100px;
+	width:30%;
+	margin-left:35%;
+	border:1px solid black;
+	border-radius:15px;
+	padding:20px
+}
+
+.wrapper2{
+	margin-top:50px;
+	width:80%;
+	margin-left:10%;
+	margin-bottom:50px;
+	border:1px solid black;
+	border-radius:15px;
+	padding:20px
+}
+
+.alert{
+	color:red;
+	text-align:center;
+}
+
+.simpleBorder{
+	border:1px solid black;
+	border-radius:15px;
+	padding:20px
+}
