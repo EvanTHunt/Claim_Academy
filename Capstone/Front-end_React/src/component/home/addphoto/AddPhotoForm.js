@@ -53,5 +53,5 @@ class AddPhotoForm extends Component {
 }
 
 export default GoogleApiWrapper({
-  apiKey: 'AIzaSyBrTDE7NI5aYs7ypjQzGW-q0c6AhRgX3tI'
+  apiKey: 'API_KEY_HERE'
 })(AddPhotoForm);
